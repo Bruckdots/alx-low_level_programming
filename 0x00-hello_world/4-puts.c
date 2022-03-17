@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - use printf typeof
- * Description: output with printf
+ * Description: output with puts
  * Return: 0
  */
 int main(void)
